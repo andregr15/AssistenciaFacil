@@ -53,6 +53,9 @@ $ docker-compose run --rm app bundle exec rspec
 ## Built With
 
 * [Ruby on Rails](https://rubyonrails.org/) - The web framework used
+* [Devise](https://github.com/plataformatec/devise) - Authentication solution for Rails based on Warden
+* [RSpec-rails](https://github.com/rspec/rspec-rails) - Testing framework for Rails 
+* [FFaker](https://github.com/ffaker/ffaker) - Used to easily generate fake data
 * [Materialize](https://github.com/mkhairi/materialize-sass) - The css framework used
 * [PostgreSQL](https://www.postgresql.org/) - SGDB
 
