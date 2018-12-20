@@ -62,6 +62,8 @@ $ docker-compose run --rm app bundle exec rspec
 ## Authors
 
 * **André Gonçalves Rodrigues** - *Initial work* - [andregr15](https://github.com/andregr15)
+* **Breno Santos e Alves** - [losnol](https://github.com/losnol)
+
 
 ## License
 
